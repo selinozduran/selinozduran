@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @selinozduran
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently 3rd year Software Engineering student 
-- 💞️ I’m searching for my internship.
+- 📚 I’m searching for my internship.
 - 📫 How to reach me:  www.linkedin.com/in/selin-özduran-79b581328
 
 <!---
